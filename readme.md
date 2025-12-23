@@ -1,10 +1,10 @@
 # Employee Promotion Analytics & Prediction  
-**End-to-End Analytics Project | Power BI | SQL | Python**
+**End-to-End Analytics Project | Tableau | SQL | Python**
 
 ---
 
 ## Project Overview
-This project analyses employee promotion data using **Power BI, SQL, and Python** to understand promotion patterns and build a **promotion likelihood prediction model**.
+This project analyses employee promotion data using **Tableau, SQL, and Python** to understand promotion patterns and build a **promotion likelihood prediction model**.
 
 The project is designed as a **decision-support analytics solution**, not an automated promotion system.
 
@@ -20,7 +20,7 @@ The project is designed as a **decision-support analytics solution**, not an aut
 ---
 
 ## Tools & Technologies
-- **Power BI** – Dashboarding and KPI visualization  
+- **Tableau** – Dashboarding and KPI visualization  
 - **SQL Server** – Business logic and analytical queries  
 - **Python** – Data analysis and machine learning  
   - pandas, numpy  
@@ -32,7 +32,7 @@ The project is designed as a **decision-support analytics solution**, not an aut
 
 ## Analytical Components
 
-### Dashboard (Power BI)
+### Dashboard (Tableau)
 - High-level KPIs and promotion trends  
 - Interactive slicers for segmentation  
 - Visual exploration of promotion patterns  
@@ -52,7 +52,7 @@ The project is designed as a **decision-support analytics solution**, not an aut
 
 ## Dashboard Preview
 *Screenshots from the actual Power BI dashboard*
-Download PBIX: https://drive.google.com/file/d/1D4SfvozZ6_B0xn-WehMkvk1CBeSKC1_v/view?usp=sharing
+Download twb: https://drive.google.com/file/d/1D4SfvozZ6_B0xn-WehMkvk1CBeSKC1_v/view?usp=sharing
 
 
 ---
@@ -68,11 +68,11 @@ Download PBIX: https://drive.google.com/file/d/1D4SfvozZ6_B0xn-WehMkvk1CBeSKC1_v
 
 ---
 
-## How to Run (Optional)
+## How to Run 
 1. Clone the repository  
 2. Execute SQL scripts in SQL Server  
 3. Run the Python notebook for EDA and modelling  
-4. Open the Power BI file for dashboard exploration  
+4. Open the tableau file for dashboard exploration  
 
 ---
 
@@ -86,3 +86,4 @@ Download PBIX: https://drive.google.com/file/d/1D4SfvozZ6_B0xn-WehMkvk1CBeSKC1_v
 ## Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
+
