@@ -49,7 +49,7 @@ The project is designed as a **decision-support analytics solution**, not an aut
 - Controlled analysis across departments, performance, and experience
 
 ### SQL Insights
-- Promotion rate is low (~8–9%), showing a highly selective promotion process.
+- Promotion rate is low (8–9%), showing a highly selective promotion process.
 - Higher training levels do not increase promotion probability.
 - Award winners have a much higher promotion rate than non-award employees.
 - 1,306 high-performing employees were not promoted, indicating retention risk.
@@ -63,10 +63,10 @@ The project is designed as a **decision-support analytics solution**, not an aut
 - XGBoost model used for prediction as decision support
 
 ### Python Insights
-- Promotion is rare (~9%), making outcomes highly competitive and imbalanced.
-- Performance signals dominate — ratings and awards matter more than tenure.
-- Training score alone is weak and does not guarantee promotion.
-- Promotions are multi-factor, combining performance, recognition, and judgment.
+- Promotions are rare (9%), so competition is high.
+- Strong performance matters most , high ratings and awards outweigh years of service.
+- Training scores alone aren’t enough to secure a promotion.
+- Promotion decisions consider multiple factors, combining performance, recognition, and managerial judgment.
 
 ---
 
@@ -106,6 +106,7 @@ Screenshot: https://drive.google.com/file/d/1KzHVRGz1_d3URH5g6fp3PUh1y1069QcV/vi
 ## Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
+
 
 
 
