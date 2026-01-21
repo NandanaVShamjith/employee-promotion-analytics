@@ -35,23 +35,45 @@ The project is designed as a **decision-support analytics solution**, not an aut
 ### Dashboard (Tableau)
 - High-level KPIs and promotion trends  
 - Interactive slicers for segmentation  
-- Visual exploration of promotion patterns  
+- Visual exploration of promotion patterns
+
+### Dashboard insights
+- Demand and revenue increase steadily over time.
+- Growth is mainly driven by order volume, not high prices.
+- Most orders are placed on weekdays and delivered on time.
+- Revenue is concentrated in a few key product categories.
 
 ### SQL Analysis
 - Business-driven analytical queries  
 - Promotion efficiency and policy evaluation  
-- Controlled analysis across departments, performance, and experience  
+- Controlled analysis across departments, performance, and experience
+
+### SQL Insights
+- Promotion rate is low (~8–9%), showing a highly selective promotion process.
+- Higher training levels do not increase promotion probability.
+- Award winners have a much higher promotion rate than non-award employees.
+- 1,306 high-performing employees were not promoted, indicating retention risk.
+- Some departments promote <10% of high performers, showing structural constraints.
+- Performance-controlled analysis shows no gender bias in promotions.
 
 ### Python & Machine Learning
 - Data validation and exploratory analysis  
 - Feature behaviour analysis  
 - Binary classification framing for promotion likelihood  
-- XGBoost model used for prediction as decision support  
+- XGBoost model used for prediction as decision support
+
+### Python Insights
+- Promotion is rare (~9%), making outcomes highly competitive and imbalanced.
+- Performance signals dominate — ratings and awards matter more than tenure.
+- Training score alone is weak and does not guarantee promotion.
+- Promotions are multi-factor, combining performance, recognition, and judgment.
 
 ---
 
 ## Dashboard Preview
-Download twb: https://drive.google.com/file/d/1D4SfvozZ6_B0xn-WehMkvk1CBeSKC1_v/view?usp=sharing
+Download twbx: https://drive.google.com/file/d/1oPodSmN7U2CuoMO1ullIIqy2sLRGGU8v/view?usp=sharing
+
+Screenshot: https://drive.google.com/file/d/1KzHVRGz1_d3URH5g6fp3PUh1y1069QcV/view?usp=sharing
 
 ---
 
@@ -84,6 +106,7 @@ Download twb: https://drive.google.com/file/d/1D4SfvozZ6_B0xn-WehMkvk1CBeSKC1_v/
 ## Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
+
 
 
 
