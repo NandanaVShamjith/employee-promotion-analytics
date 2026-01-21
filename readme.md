@@ -107,6 +107,12 @@ Screenshot: https://drive.google.com/file/d/1KzHVRGz1_d3URH5g6fp3PUh1y1069QcV/vi
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
 
+LinkedIn: www.linkedin.com/in/690374282
+
+Email: nandanavshamjith39@gmail.com
+
+
+
 
 
 
